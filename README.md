@@ -1,22 +1,19 @@
-# Name: MockMate
+# Name: TBD
 
 ## Our Vision
 
-Our platform connects job seekers, fresh graduates, career shifters, and professionals—with experienced mentors and fellow candidates for mock interview practice. Candidates can build confidence and receive feedback by practicing with volunteer mentors, including recruiters and industry experts, or by pairing with peers who share similar goals. The service creates a supportive community where knowledge is shared, skills are honed, and everyone has the opportunity to succeed.
+Our platform connects job seekers, fresh graduates, career shifters, and professionals—with experienced mentors and fellow candidates for mock interview practice, CV reviewing, career adivce, and professional guidance.<br>
+
+Candidates can build confidence and receive feedback by being matched with volunteer mentors, including recruiters and industry experts, or by pairing with peers who share similar goals.<br>
+
+The service creates a supportive community where knowledge is shared, skills are honed, and everyone has the opportunity to succeed.
 
 ## Features
 
-* **Mock Interview Matching:** Connect with mentors, industry experts, and recruiters willing to volunteer, or pair with fellow candidates for structured mock interview practice
+* **Connect with Professionals:** Engage with mentors, industry experts, and recruiters who volunteer their time, or collaborate with fellow candidates.  
 
-* **Seamless pairing expreince:** Simply choose someone to practice with, find an available time that suits both of you, and request a session
+* **Effortless Pairing Experience:** Select a practice partner, find a mutually convenient time, and request a session with ease.  
 
-* **Integration with your calendar:** You can connect your favourite calendar with our service to save you from the hassle of finding a suitable time for your sessions 
+* **Google Calendar Integration:** Sync your Google Calendar to streamline scheduling and eliminate the hassle of coordinating session times.  
 
-# Authorization
-* Sign up using email
-* Sign up using Google account
-* Login using credintials (email and password)
-* Login using Google account
-* Reset password using email
-* Logout from the website
-* Enable 2-Factor Authentication using email
+* **Community Engagement:** Create and manage communities to bring together individuals with shared backgrounds, such as schools, training programs, or organizations.
