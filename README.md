@@ -12,7 +12,7 @@ Our platform connects job seekers, fresh graduates, career shifters, and profess
 
 * **Integration with your calendar:** You can connect your favourite calendar with our service to save you from the hassle of finding a suitable time for your sessions 
 
-# flkgsjlk
+# Authorization
 * Sign up using email
 * Sign up using Google account
 * Login using credintials (email and password)
